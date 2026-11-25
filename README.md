@@ -4,16 +4,16 @@
   <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="assets/workspace-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/workspace-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/workspace-light.svg">
-  <img alt="Hi, I'm Mark Shenouda. Software engineer in Cairo. My portfolio has a kernel." src="assets/workspace-light.svg" width="1200">
+  <img alt="Hi, I'm Mark Shenouda. Software engineer. My portfolio has a kernel." src="assets/workspace-light.svg" width="1200">
 </picture>
 
 [portfolio/](https://markcodes.dev) · [notes.md](https://markcodes.dev/posts) · [talks/](https://markcodes.dev/videos) · [LinkedIn](https://www.linkedin.com/in/marksshenouda/) · [say hello](https://markcodes.dev/contact)
 
 # Hi, I'm Mark.
 
-I'm a software engineer in Cairo, Egypt. I studied accounting at Mansoura University, then built a career writing software.
+I'm a software engineer working with React, TypeScript, Next.js, and React Native.
 
-I mostly work with React, TypeScript, Next.js, and React Native. My work at This Dot Labs has included mobile apps with AR-assisted workflows and Shopify storefronts.
+My work at This Dot Labs has included mobile apps with AR-assisted workflows and Shopify storefronts.
 
 My portfolio has been a tiny operating system and a VS Code workspace. I like following an idea far enough to understand what makes it work.
 
